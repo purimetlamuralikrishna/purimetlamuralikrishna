@@ -46,7 +46,7 @@
 </br>
 
 ## Languages
-<div align="centre"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=purimetlamuralikrishna&theme" align="centre"/></div>
+<div align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=purimetlamuralikrishna&theme" align="center"/></div>
 
 
 ## Connect with me  
