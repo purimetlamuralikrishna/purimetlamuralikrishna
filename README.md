@@ -50,7 +50,7 @@
 
 
 <div align="centre">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purimetlamuralikrishna&layout=compact)](https://github.com/purimetlamuralikrishna/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purimetlamuralikrishna&layout=compact)](https://github.com/purimetlamuralikrishna/github-readme-stats"/>
 </div>
 
 
