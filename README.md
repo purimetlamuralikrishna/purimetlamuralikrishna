@@ -45,12 +45,14 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=purimetlamuralikrishna&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purimetlamuralikrishna&layout=compact)](https://github.com/purimetlamuralikrishna/github-readme-stats" align="centre"/>
+
 <br/> 
 
 
 
 <div align="centre">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purimetlamuralikrishna&layout=compact)](https://github.com/purimetlamuralikrishna/github-readme-stats" align="centre"/>
+
 </div>
 
 
