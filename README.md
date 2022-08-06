@@ -46,8 +46,8 @@
 </br>
 
 ## Languages
-<div>
-     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=purimetlamuralikrishna&theme&layout=compact" align="center"/>
+<div align="center">
+     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=purimetlamuralikrishna&theme&layout=compact" />
 </div>
 
 
