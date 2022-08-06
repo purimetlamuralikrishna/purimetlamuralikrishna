@@ -32,13 +32,16 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</td><td valign="top" width="33%"> 
 
 <br/>  
+
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=purimetlamuralikrishna&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/> 
 
 
 ## Connect with me  
@@ -58,10 +61,7 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=purimetlamuralikrishna&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+ 
 
 
 ## Recent Blog Posts  
