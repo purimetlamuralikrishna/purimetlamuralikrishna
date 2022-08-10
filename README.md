@@ -1,10 +1,30 @@
 
 
 
-### <div align="center">I'm Murali, a full-time full-stack developer</div>  
-  
+### <div>I'm Murali, learning fullstact web development. Waiting for an opportunity to improve myskills by building real life projects. Feel free to have a look
+at my GitHub profile</div>  
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/purimetlamuralikrishna)  
+
+
+## Collaborative Projects build during my course
+
+
+
+# Banggood_Clone
+
+
+- This is clone of Banggood.com ecommerce website
+![](https://github.com/purimetlamuralikrishna/banggood.in-clone/blob/master/images/screenshots/Homepage.png)
+- [Click here to view project description](https://github.com/purimetlamuralikrishna/Blue-stone-clone/blob/master/README.md)
+- [Click here]( https://purimetlamuralikrishna.github.io/banggood.in-clone/)
+
+
+# Bluestone_Clone
+- This is clone of Bluestone.com ecommerce website
+![Screenshot (72)](https://user-images.githubusercontent.com/86877385/161432456-f30dc49f-558b-4e64-a768-89b064dd73d7.png)
+- [Click here to view project description](https://github.com/purimetlamuralikrishna/Blue-stone-clone/blob/master/README.md)
+- [Click here to visit our website](https://delicate-pithivier-27faa0.netlify.app/)
+   
   
 
 <br/>  
