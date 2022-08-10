@@ -15,7 +15,7 @@
 - This is clone of Banggood.com ecommerce website
 ![](https://github.com/purimetlamuralikrishna/banggood.in-clone/blob/master/images/screenshots/Homepage.png)
 - [Click here to view project description](https://github.com/purimetlamuralikrishna/Blue-stone-clone/blob/master/README.md)
-- [Click here]( https://purimetlamuralikrishna.github.io/banggood.in-clone/)
+- [Click here to visit website]( https://purimetlamuralikrishna.github.io/banggood.in-clone/)
 
 
 # Bluestone_Clone
