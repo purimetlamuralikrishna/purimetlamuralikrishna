@@ -86,10 +86,10 @@
 </br>
 
 ## Contact Details
-<div align="center">
+
 - Gmail id:  muralikrishna70321@gmail.com
 - phone no.: +91 9110511296
-</div>
+
  
 
   
