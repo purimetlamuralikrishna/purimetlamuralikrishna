@@ -32,7 +32,7 @@
 ## My Skill Set  
 <table align="center"><tr><td valign="top" width="60%">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=abhinavgujral&theme=xcode">
+
 
 ### Frontend  
 <div align="center">  
@@ -55,6 +55,8 @@
 </tr>
 </table>
 <br/>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=purimetlamuralikrishna&theme=xcode">
 
 <br/>  
 
