@@ -76,7 +76,7 @@ Any one can write code that a computer can understand.Good programmers write cod
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=purimetlamuralikrishna&theme=highcontrast&show_icons=true&count_private=true" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=&theme=highcontrast&show_icons=true&count_private=true" align="center" /></div> 
 <div>
 <img src="https://activity-graph.herokuapp.com/graph?username=purimetlamuralikrishna&theme=xcode">
 </div>
