@@ -1,6 +1,8 @@
+### Hi there 👋
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Murali+krishna!;Learning+Web+Development...;" style="max-width: 100%;">
+
 
 
 ### <div>I'm Murali, learning fullstact web development. Waiting for an opportunity to improve myskills by building real life projects. Feel free to have a look at my GitHub profile</div>  
