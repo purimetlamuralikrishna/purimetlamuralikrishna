@@ -6,6 +6,20 @@
 
 
  <div>I'm Murali, learning fullstact web development. Waiting for an opportunity to improve myskills by building real life projects. Feel free to have a look at my GitHub profile</div>  
+ 
+ 
+ 
+  💬 About me ...<br>
+<ul>
+  <li> I’m currently learning Java,Springboot,Hibernate</li>
+  <li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
+</ul>
+👯 I’m looking to collaborate on ..
+<ul>
+  <li>Open source Projects</li>
+  <li>Full-stack Development</li>
+  <li>Backend Development</li>
+</ul>
 
 
 
