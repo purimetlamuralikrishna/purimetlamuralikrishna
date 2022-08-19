@@ -58,7 +58,7 @@
 </table>
 <br/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=purimetlamuralikrishna&theme=xcode">
+
 
 <br/>  
 
@@ -66,6 +66,8 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=purimetlamuralikrishna&theme=highcontrast&show_icons=true&count_private=true" align="center" /></div> 
+
+<img src="https://activity-graph.herokuapp.com/graph?username=purimetlamuralikrishna&theme=xcode">
 </br>
 
 ## Languages
