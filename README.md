@@ -66,8 +66,9 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=purimetlamuralikrishna&theme=highcontrast&show_icons=true&count_private=true" align="center" /></div> 
-
+<div>
 <img src="https://activity-graph.herokuapp.com/graph?username=purimetlamuralikrishna&theme=xcode">
+</div>
 </br>
 
 ## Languages
