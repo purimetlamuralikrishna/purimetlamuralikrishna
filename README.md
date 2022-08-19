@@ -27,7 +27,7 @@ Any one can write code that a computer can understand.Good programmers write cod
 
 
 
-# Collaborative Projects build during my course
+# Collaborative Projects
 
 ## Payment Wallet Application
 
