@@ -1,10 +1,7 @@
 
-
+### Hi there 👋
 
 Any one can write code that a computer can understand.Good programmers write code that humans can understand.  
-
-
-### Hi there 👋
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Murali+krishna!;Learning+Web+Development...;" style="max-width: 100%;">
