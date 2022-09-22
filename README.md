@@ -1,12 +1,5 @@
 
-### Hi there 👋
-
- 
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Murali+krishna!;Learning+Web+Development...;" style="max-width: 100%;">
- 
- <br>
  
  ### Aspiring Full-Stack Web Developement with an ability to learn and collaborate in rapidly changing environments
  
