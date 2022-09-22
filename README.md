@@ -51,7 +51,7 @@
 ## My Skill Set  
 
 
-<div align="center">  
+<div>  
  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /> 
@@ -69,14 +69,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=purimetlamuralikrishna&theme=highcontrast&show_icons=true&count_private=true" align="center" /></div> 
+<div><img src="https://github-readme-stats.vercel.app/api?username=purimetlamuralikrishna&theme=highcontrast&show_icons=true&count_private=true" align="center" /></div> 
 <div>
 <img src="https://activity-graph.herokuapp.com/graph?username=purimetlamuralikrishna&theme=xcode">
 </div>
 </br>
 
 ## Languages
-<div align="center">
+<div>
      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=purimetlamuralikrishna&theme&layout=compact" />
 </div>
 
