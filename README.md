@@ -8,13 +8,13 @@
  
  <br>
  
- Any one can write code that a computer can understand.Good programmers write code that humans can understand. 
+ ### Aspiring Full-Stack Web Developement with an ability to learn and collaborate in rapidly changing environments
  
  
   💬 About me ...<br>
 <ul>
   <li> I’m currently learning Java,Springboot,Hibernate</li>
-  <li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
+  <li> I’m looking to collaborate with any Web Devlopment projects</li>
 </ul>
 👯 I’m looking to collaborate on ..
 <ul>
