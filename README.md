@@ -48,7 +48,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Skill Set  
 
 
 <div>  
