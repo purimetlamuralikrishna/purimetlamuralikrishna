@@ -6,10 +6,10 @@
  
   💬 About me ...<br>
 <ul>
-  <li> I’m currently learning Java,SQL,Springboot,Hibernate,HTML,CSS,JavaScript.</li>
-  <li> I’m looking to collaborate with any Web Devlopment projects.</li>
+  <li> Currently learning Java,SQL,Springboot,Hibernate,HTML,CSS,JavaScript.</li>
+  <li> Looking to collaborate with any Web Devlopment projects.</li>
 </ul>
-👯 I’m looking to collaborate on ..
+👯 Looking to collaborate on ..
 <ul>
   <li>Open source Projects</li>
   <li>Full-stack Development</li>
