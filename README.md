@@ -24,7 +24,7 @@
 
 
 - To create a REST API for wallet application which can be use by the Customer.
-- [Click here to view project details](https://github.com/codeirax/wallet-project#readme)
+- [Click here to view project details](https://github.com/codeirax/wallet-project/README.md)
 
 
 
@@ -33,14 +33,14 @@
 
 - Banggood.com ecommerce website.
 <!-- ![](https://github.com/purimetlamuralikrishna/banggood.in-clone/blob/master/images/screenshots/Homepage.png) -->
-- [Click here to view project description](https://github.com/purimetlamuralikrishna/Blue-stone-clone/blob/master/README.md)
+- [Click here to view project description](https://github.com/purimetlamuralikrishna/Bluestone-clone/blob/master/README.md)
 - [Click here to visit website]( https://purimetlamuralikrishna.github.io/banggood.in-clone/)
 
 
 ### Bluestone_Clone
 - Bluestone.com ecommerce website.
 <!-- ![Screenshot (72)](https://user-images.githubusercontent.com/86877385/161432456-f30dc49f-558b-4e64-a768-89b064dd73d7.png) -->
-- [Click here to view project description](https://github.com/purimetlamuralikrishna/Bluestone-clone/blob/master/README.md)
+- [Click here to view project description](https://github.com/purimetlamuralikrishna/Blue-stone-clone/blob/master/README.md)
 - [Click here to visit our website](https://bluestoneclone.netlify.app/)
    
   
