@@ -24,7 +24,7 @@
 
 
 - To create a REST API for wallet application which can be use by the Customer.
-- [Click here to view project details](https://github.com/codeirax/wallet-project/README.md)
+- [Click here to view project details](https://github.com/codeirax/wallet-project#README.md)
 
 
 
@@ -33,7 +33,7 @@
 
 - Banggood.com ecommerce website.
 <!-- ![](https://github.com/purimetlamuralikrishna/banggood.in-clone/blob/master/images/screenshots/Homepage.png) -->
-- [Click here to view project description](https://github.com/purimetlamuralikrishna/Bluestone-clone/blob/master/README.md)
+- [Click here to view project description](https://github.com/purimetlamuralikrishna/banggood.in-clone/readme)
 - [Click here to visit website]( https://purimetlamuralikrishna.github.io/banggood.in-clone/)
 
 
