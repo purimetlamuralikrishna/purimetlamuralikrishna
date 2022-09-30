@@ -23,7 +23,7 @@
 ### Payment Wallet Application
 
 
-- To create a REST API for wallet application which can be use by the Customer.
+- To create a REST API for wallet application can be use by the Customer.
 - [Project Details](https://github.com/codeirax/wallet-project#README.md)
 - [Video Explination](https://drive.google.com/file/d/18JMY2m63XwjssHtI4--j7lPvI7NkjalW/view?usp=sharing)
 
