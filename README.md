@@ -4,7 +4,7 @@
  ### Aspiring Full-Stack Web Developement with an ability to learn and collaborate in rapidly changing environments
  
  
-  💬 About me ...<br>
+  💬 About me ..<br>
 <ul>
   <li> Currently learning Java,SQL,Springboot,Hibernate,HTML,CSS,JavaScript.</li>
   <li> Looking to collaborate with any Web Devlopment projects.</li>
